@@ -15,9 +15,9 @@ Specs:
 
 Measures the amount of impact
 
-
+* How many pounds of force in your punch
+* the speed of your punch?
 * Sends data to the computer/Iphone/Android device
-* 
 
 F = ma 
 
@@ -28,6 +28,8 @@ Tells you how heavy your punch is: the momentum transferred
 
 and the max pressure by proxy with the force.
 
+
+F/m = a/time_window
 
 
 
