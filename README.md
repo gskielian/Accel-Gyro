@@ -1,10 +1,13 @@
-SPAM
+Acceleration-Based
 ====
 
+roadmap:
+1. getting data read in one dimension
+2. attaching bluetooth
+3. adjusting for the gyroscope
 
 Specs:
 ------
-
 
 ## Velocity sensing mode
 
@@ -19,8 +22,7 @@ Measures the amount of impact
 * the speed of your punch?
 * Sends data to the computer/Iphone/Android device
 
-F = ma 
-
+F*delta t = "weight transferred" (in physics speak it's the momentum transferred)
 
 ## Bag Sensing Mode
 
