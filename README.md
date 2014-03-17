@@ -1,8 +1,8 @@
-Acceleration-Based
+Speed-Analytics-for-Martial-Arts
 ====
 
 roadmap:
-1. getting data read in one dimension
+1. getting speed data in 1-d (this is harder than I thought)
 2. attaching bluetooth
 3. adjusting for the gyroscope
 
