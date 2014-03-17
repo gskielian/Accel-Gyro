@@ -2,10 +2,9 @@ Speed-Sensor 4 Martial-Arts + More
 ====
 
 roadmap:
+
 1. getting speed data in 1-d (this is harder than I thought)
-
 2. attaching bluetooth
-
 3. adjusting for the gyroscope
 
 Specs:
