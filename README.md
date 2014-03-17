@@ -1,4 +1,4 @@
-Speed-Sensor 4 Martial-Arts + More
+Speed-Sensor 4 Martial-Arts & Stuff
 ====
 
 roadmap:
